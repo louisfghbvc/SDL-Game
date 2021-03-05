@@ -23,7 +23,7 @@
 	
 
 ### 預覽圖:
-[主畫面+說明](https://i.imgur.com/452FLRa.png)
-[小魔王](https://i.imgur.com/hdJQQ4W.png)
-[魔王](https://i.imgur.com/wlghuYb.png)
-[遊玩場景](https://i.imgur.com/fStBnrE.png)
+![主畫面+說明](https://i.imgur.com/452FLRa.png)
+![魔王](https://i.imgur.com/wlghuYb.png)
+![小魔王](https://i.imgur.com/hdJQQ4W.png)
+![遊玩場景](https://i.imgur.com/fStBnrE.png)
